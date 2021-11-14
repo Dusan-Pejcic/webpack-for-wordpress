@@ -1,0 +1,14 @@
+@import './src/styles/variables.scss';
+
+.deewana-img {
+  width: 250px;
+  height: 300px;
+  background-image: url('deewana_logo.png');
+  background-position: center center;
+}
+
+h1 {
+  color: $text-color;
+  font-size: 50px;
+  font-family: $headers;
+}
